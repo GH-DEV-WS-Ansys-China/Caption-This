@@ -3,7 +3,7 @@
 - Class Date: March 18 - 19, 2024
 - Facilitator: @Emily
 
-## Class Resources
+### Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
